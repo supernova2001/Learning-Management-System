@@ -1,0 +1,11 @@
+.form-box{
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 300px;
+    height: 1px;
+    margin: auto;
+    margin-top: 140px;
+}
